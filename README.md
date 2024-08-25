@@ -1,0 +1,2 @@
+# GitPractice
+Setting Up Github
